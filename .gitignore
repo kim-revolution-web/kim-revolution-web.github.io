@@ -1,0 +1,14 @@
+.*
+!.gitignore
+!.nojekyll
+!.gitattributes
+*.json
+*.db
+*.sqlite*
+*.key
+*.pem
+credentials/
+data/
+outputs/
+tools/
+__pycache__/
